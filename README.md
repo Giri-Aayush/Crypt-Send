@@ -11,4 +11,3 @@ Documentation and Crypto market links are integrated to keep a check on the tran
 
 ![Application Screenshot](ScreenShot-Demo.PNG)
 ![Application Screenshot](ScreenShot-Demo2.PNG)
-
