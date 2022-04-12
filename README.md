@@ -9,6 +9,6 @@ Documentation and Crypto market links are integrated to keep a check on the tran
 
 ## Demo-Screenshots:
 
-![Application Screenshot] (ScreenShot-Demo.png)
-![Application Screenshot] (ScreenShot-Demo2.png)
+![Application Screenshot](ScreenShot-Demo.png)
+![Application Screenshot](ScreenShot-Demo2.png)
 
