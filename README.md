@@ -7,7 +7,8 @@ The transactions which take place through the platform can be backtracked with t
 The application is integrated with the ability to send a GIF as well as a message with the transaction that is about to be performed. 
 Documentation and Crypto market links are integrated to keep a check on the transaction fees and trading volumes.
 
-## Screenshots
+## Application Demo Screenshots :
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Application Screenshot](ScreenShot-Demo.PNG)
+![Application Screenshot](ScreenShot-Demo2.PNG)
 
